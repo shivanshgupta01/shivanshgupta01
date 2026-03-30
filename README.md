@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Versatile Technologist | AI & Automation Enthusiast
 ---------------------------------------------------
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flowkraftai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshfinance) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshd81colonyada@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flowkraftai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshfinance) 
 
 
 I am a tech enthusiast and creative entrepreneur based in Uttar Pradesh, India, currently pursuing my graduation at Amity University, Lucknow. My work focuses on bridging the gap between technical innovation and creative execution. I specialize in Python programming, prompt engineering, and building automated systems for content and data analytics. I am passionate about leveraging Generative AI to optimize workflows and scale digital businesses.
